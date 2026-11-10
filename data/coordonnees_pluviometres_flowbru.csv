@@ -1,0 +1,17 @@
+﻿id_flowbru,nom,colonne_pluie_csv,x_lambert72,y_lambert72,latitude,longitude,bassin_versant,adresse,mesure,donnees_depuis,source_pdf
+P01,Avant-Port,pluv.Avant-port,151254.761,174693.568,50.8826025,4.3865831,Senne,"Avenue de Vilvorde, Bruxelles",pluie par 5 minutes,31/07/2006,P01-–-Pluv.-Avant-Port.pdf
+P02,Ganshoren,pluv.Genshoren,145267.056,174564.167,50.8814219,4.3014984,Molenbeek,"Rue au Bois, 1083 Ganshoren",pluie par 5 minutes,05/07/2006,P02-–-Pluv.-Ganshoren.pdf
+P03,Roodebeek,pluv.roodebeek,154347.031,170885.224,50.8483524,4.4304794,Woluwe,"Chaussée de Roodebeek, 1200 Woluwe-Saint-Lambert",pluie par 5 minutes,01/08/2007,P03-–-Pluv.-Roodebeek.pdf
+P04,Hippocrate,pluv.hippocrate,155445.054,171681.255,50.855499,4.446083,Woluwe,"Avenue Hippocrate, 1932 Woluwe-Saint-Lambert",pluie par 5 minutes,21/03/2007,P04-–-Pluv.-Hippocrate.pdf
+P07,Écluse Anderlecht,pluv.écluse;anderlecht,145282.949,167642.312,50.819198,4.301812,Senne,"Quai d’Aa, 1070 Anderlecht",pluie par 5 minutes,31/07/2006,P07-–-Pluv.-Ecluse-Anderlecht.pdf
+P08,Paelincks,pluv.paelinckx,151322.713,162206.088,50.7703454,4.3875023,Ukkelbeek,"Drève Saint-Hubert, 1180 Uccle",pluie par 5 minutes,30/06/2006,P08-–-Pluv.-Paelincks.pdf
+P09,Kinsendael,pluv.kinsendael,148979.471,164054.135,50.7869596,4.3542789,Ukkelbeek,"Avenue de la Chênaie, 1180 Uccle",pluie par 5 minutes,12/06/2008,P09-–-Pluv.-Kinsendael.pdf
+P10,Semence,pluv.semence,145141.680,171357.448,50.8525942,4.2997587,Broek-Neerpede / Vogelzangbeek,"Rue Scheutbosch, 1080 Molenbeek-Saint-Jean",pluie par 5 minutes,18/03/2009,P10-–-Pluv.-Semence.pdf
+P11,Dépôt Communal,pluv.depot.commun,152249.312,166901.788,50.8125552,4.4006673,Woluwe,"Rue Lambert Vandervelde, 1170 Watermael-Boitsfort",pluie par 5 minutes,08/11/2006,P11-–-Pluv.-Depot-Communal.pdf
+P12,Voets,pluv.voets,155931.102,166208.796,50.8062993,4.452897,Woluwe,"Chaussée de Wavre, 1160 Auderghem",pluie par 5 minutes,05/07/2006,P12-–-Pluv.-Voets.pdf
+P13,IRM,pluv.IRM,149418.032,165237.523,50.7975984,4.3604966,Ukkelbeek,"Avenue Circulaire, 1180 Uccle",pluie par 5 minutes,31/07/2006,P13-–-Pluv.-IRM.pdf
+P14,Flagey,pluv.flagey,150447.562,168687.624,50.8286134,4.3751046,Maelbeek,"Place Eugène Flagey, 1050 Ixelles",pluie par 5 minutes,26/06/2008,P14-–-Pluv.-Flagey.pdf
+P15,Ste Gudule,pluv.ste.gudule,149405.547,170751.442,50.8471661,4.3603113,Senne,"Boulevard de l’Impératrice, 1000 Bruxelles",pluie par 5 minutes,01/03/2011,P15-–-Pluv.-Ste-Gudule.pdf
+P16,Bemel,pluv.bernel,153558.653,168968.302,50.8311256,4.4192658,Woluwe,"Rue du Bemel, 1150 Woluwe-Saint-Pierre",pluie par 5 minutes,17/02/2011,P16-–-Pluv.-Bemel.pdf
+P20,Broekbeek,pluv.broebeek,144002.144,169782.087,50.8384219,4.2836015,Broekbeek,"Avenue d’Itterbeek, 1070 Anderlecht",pluie par 5 minutes,26/07/2004,P20-–-Pluv.-Broekbeek.pdf
+P21,Buda,Pluv_Buda,153215.075,177437.403,50.9072602,4.4144639,Senne,"Chaussée de Buda, 1130 Bruxelles",pluie par 5 minutes,23/04/2003,P21-–-Pluv.-Buda.pdf

@@ -3,9 +3,9 @@
 ## Présentation
 
 Ce projet explore différentes manières de représenter des données environnementales à travers le son et l'image. Il permet d'apprendre à transformer des données
-en sons avec la bibliothèque Python STRAUSS. Ils seront utilisé les données de FlowBru pour analyser le rapport entre pluie et niveau d'oxygène dans la Senne. 
+en sons avec la bibliothèque Python STRAUSS. Les données utilisées pour analyser le rapport entre pluie et niveau d'oxygène dans la Senne proviennent de la platforme FlowBru (https://hydria.be/fr/carte-interactive-des-sites/). 
 
-L'idée est de transformer les variations de ces données en sons et de les accompagner de visualisations, pour explorer d'autres façons de percevoir leur évolution dans le temps.
+L'idée est de transformer les variations de ces données en sons et de les accompagner de visualisations, pour explorer d'autres façons de percevoir leur évolution dans le temps et voir si la sonification apporte une meilleure comprensions des données.
 
 ## Objectifs
 
@@ -16,10 +16,10 @@ L'idée est de transformer les variations de ces données en sons et de les acco
 
 Les données utilisées concernent :
 
-- Les précipitations mesurées à Bruxelles.
-- Les concentrations d'oxygène dissous enregistrées par quatre capteurs le long de la Senne.
-- Selection de 5 evenements differents pour tester l'efficacite (ou pas) de la sonification dans differetns situations
-- Les premiers essais portent sur la journée du **24 juillet 2025**, avec des mesures toutes les cinq minutes.
+- Les précipitations mesurées à Bruxelles par les 16 pluviometres existants.
+- Les concentrations d'oxygène dissous enregistrées par 4 capteurs le long de la Senne.
+- Selection de 5 evenements differents pour tester l'efficacité (ou pas) de la sonification dans differetns situations
+- Les premiers essais portent sur la journée du **24 juillet 2025**, avec des mesures toutes les cinq minutes. Cette date as été choisie car elle presente des précipitations irregulières et des changements de niveau d'oxygène hétèreogenes.
 
 ## Organisation du projet
 

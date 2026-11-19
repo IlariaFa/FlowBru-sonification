@@ -1,4 +1,6 @@
-#### Corrections à corriger dans les notebook du debut (jusqu'au 08) - 19.11.26
+ 19.11.26
+
+#### Choses à corriger dans les notebook du debut (jusqu'au 08) 
 - Ordre des stations : sur ta carte, l’ordre le long de la Senne est Q01, Q04, Q03, Q02 (de l’amont vers l’aval, à confirmer).
 Or ta position stéréo suit l’ordre des numéros, de 0,25 à 0,75. Ton oreille entendrait donc un ordre gauche-droite 
 qui ne correspond pas à la rivière.
@@ -7,3 +9,9 @@ qui ne correspond pas à la rivière.
 - Nombre de clips : j’ai figé 16 clips, soit 8 avec événement et 8 sans. Auparavant je disais « 4 à 8 sans », 
 ce qui donnait entre 12 et 16.
 - Limite à écrire dans le mémoire : comme le son porte la pluie et l’oxygène, tu ne pourras pas dire laquelle des deux aide.
+
+#### Choses faites
+-  verification seulle oxygéne:  seuil critique pour la vie piscicole est de 3 mg/l dans l'article : 
+https://environnement.brussels/citoyen/documentation-et-outils/etat-des-lieux-de-lenvironnement/eaux-usees-epuration?utm_source=chatgpt.com
+En revanche, l'article ne justifie pas une durée de 15 minutes. 
+Cette durée minimale est un choix méthodologique visant à écarter les fluctuations ponctuelles.

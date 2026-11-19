@@ -40,11 +40,14 @@ En regroupant les épisodes simultanés entre stations :
 | ≥ 30 min | **92** |
 
 #### Choix des evenement apres analyse des fichers contenant les données 
+Les extraits expérimentaux ont été sélectionnés à partir d'une analyse automatisée des mesures historiques de 2025. Les épisodes de faible oxygénation ont été identifiés à l'aide d'un seuil de 3 mg/L maintenu pendant au moins 15 minutes. Les extraits ont ensuite été sélectionnés pour représenter différentes situations : épisodes localisés ou touchant plusieurs stations, avec ou sans précipitations. Des périodes sans baisse d'oxygène ont également été retenues pour évaluer les fausses alertes.
+Je ne vais pas choisir automatiquement les 8 baisses les plus fortes. Ce serait trop facile pour les participants et peu représentatif. Je vais inclure des cas plus subtils, tout en vérifiant qu'ils restent perceptibles dans les vidéos.
+
 Fichiers du 1er juillet au 30 septembre 2025. Sélection concrète de 16 extraits de **2 heures**.
 Dans le première exemple du 24 juillet: choix de 24h (une journée) mais risque de rendre trop dilué et donc peu percevables des variations d'oxygène sur 15min donc choix d'un laps de temps plus courte pour l'analyse.
 
 ##### 8 extraits avec baisse d’oxygène
-Date et heure	Stations concernées	Pourquoi
+Date et heure, 	Stations concernées,	Pourquoi
 - 6 juillet, 12–14 h	Q01, Q02, Q03, Q04	Plusieurs baisses, fortes pluies généralisées
 - 20 juillet, 17–19 h	Q01, Q03, Q04	Baisses importantes, presque sans pluie
 - 24 juillet, 19–21 h	Q02, Q04	Réutilise ton prototype existant
@@ -56,12 +59,14 @@ Date et heure	Stations concernées	Pourquoi
 
 ##### 8 extraits sans baisse
 Toutes les stations restent au-dessus de 3 mg/L pendant ces fenêtres.
-Date et heure	Pourquoi
+Date et heure,	Pourquoi
 - 10 juillet, 12–14 h	Situation stable, sans pluie
 - 17 juillet, 6–8 h	Pluie légère sans baisse
 - 24 juillet, 12–14 h	Même journée qu'un événement, mais sans baisse
 - 10 août, 12–14 h	Faible pluie, oxygène normal
 - 20 août, 12–14 h	Situation stable
 - 31 août, 6–8 h	Pluie sur les 16 pluviomètres, sans baisse
- -22 septembre, 12–14 h	Pluie faible sans baisse
+- 22 septembre, 12–14 h	Pluie faible sans baisse
 - 25 septembre, 12–14 h	Oxygène élevé et stable
+
+##### Code python pour verifier les données et choisir ces dates: aller dans le ficher iphnb

@@ -40,7 +40,8 @@ En regroupant les épisodes simultanés entre stations :
 | ≥ 30 min | **92** |
 
 #### Choix des evenement apres analyse des fichers contenant les données 
-Fichiers du 1er juillet au 30 septembre 2025. Sélection concrète de 16 extraits de 2 heures.
+Fichiers du 1er juillet au 30 septembre 2025. Sélection concrète de 16 extraits de **2 heures**.
+Dans le première exemple du 24 juillet: choix de 24h (une journée) mais risque de rendre trop dilué et donc peu percevables des variations d'oxygène sur 15min donc choix d'un laps de temps plus courte pour l'analyse.
 
 ##### 8 extraits avec baisse d’oxygène
 Date et heure	Stations concernées	Pourquoi

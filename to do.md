@@ -15,3 +15,26 @@ ce qui donnait entre 12 et 16.
 https://environnement.brussels/citoyen/documentation-et-outils/etat-des-lieux-de-lenvironnement/eaux-usees-epuration?utm_source=chatgpt.com
 En revanche, l'article ne justifie pas une durée de 15 minutes. 
 Cette durée minimale est un choix méthodologique visant à écarter les fluctuations ponctuelles.
+Pour justifier ce choix:
+
+##### Nombre d’épisodes détectés
+
+| Station | ≥ 10 min | ≥ 15 min | ≥ 30 min |
+|---------|----------|----------|----------|
+| Q01 | 20 | 14 | 11 |
+| Q02 | 176 | 108 | 72 |
+| Q03 | 32 | 28 | 20 |
+| Q04 | 60 | 49 | 37 |
+| **Total par station** | **288** | **199** | **140** |
+
+Un épisode correspond à des mesures consécutives sous 3 mg/L, sans interruption. Un même événement touchant plusieurs stations peut être compté plusieurs fois.
+
+##### Épisodes regroupés entre stations
+
+En regroupant les épisodes simultanés entre stations :
+
+| Durée minimale | Nombre d'épisodes |
+|----------------|-------------------|
+| ≥ 10 min | **218** |
+| ≥ 15 min | **141** |
+| ≥ 30 min | **92** |

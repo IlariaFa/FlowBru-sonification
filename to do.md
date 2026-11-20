@@ -8,7 +8,7 @@ qui ne correspond pas à la rivière.
 - Gain de la pluie : le notebook 04 normalise le son par son maximum, ce qui rendrait un clip presque sec aussi fort qu’un orage.
 - Nombre de clips : j’ai figé 16 clips, soit 8 avec événement et 8 sans. Auparavant je disais « 4 à 8 sans », 
 ce qui donnait entre 12 et 16.
-- Limite à écrire dans le mémoire : comme le son porte la pluie et l’oxygène, tu ne pourras pas dire laquelle des deux aide.
+- Limite à écrire dans le mémoire : comme le son porte la pluie et l’oxygène, on ne peut pas dire laquelle des deux aide.
 
 #### Choses faites
 -  verification seulle oxygéne:  seuil critique pour la vie piscicole est de 3 mg/l dans l'article : 

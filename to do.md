@@ -69,4 +69,11 @@ Date et heure,	Pourquoi
 - 22 septembre, 12–14 h	Pluie faible sans baisse
 - 25 septembre, 12–14 h	Oxygène élevé et stable
 
-##### Code python pour verifier les données et choisir ces dates: aller dans le ficher iphnb
+###### Code python pour verifier les données et choisir ces dates: aller dans le ficher iphnb
+
+20.11.26
+
+#### Ajouter des questions secondaires 
+- Le son aide-t-il à repérer la succession temporelle entre les épisodes de pluie et la baisse d'oxygène?
+- La sonification aide-t-elle à distinguer une pluie localisée d'une pluie généralisée ?
+- La sonification aide-t-elle à détecter et localiser les baisses d'oxygène ?

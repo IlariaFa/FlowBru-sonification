@@ -77,3 +77,26 @@ Date et heure,	Pourquoi
 - Le son aide-t-il à repérer la succession temporelle entre les épisodes de pluie et la baisse d'oxygène?
 - La sonification aide-t-elle à distinguer une pluie localisée d'une pluie généralisée ?
 - La sonification aide-t-elle à détecter et localiser les baisses d'oxygène ?
+
+Ces 3 questions supplementaires portent sur 3 dimensions differentes mais interessantes: la chronologie, la répartition spatiale de la pluie et la détection des baisses d'oxygène
+
+22.11
+
+#### Ecriture d'un planning provisoire
+Étape 1 — Terminer le code du notebook 10 pour sonifier automatiquement les 16 événements avec les paramètres provisoires.  
+Étape 2 — Choisir les sons définitifs, confirmer l'ordre des stations et corriger le gain de la pluie.  
+Étape 3 — Avant l'expérience: Corriger les échelles des cartes si nécessaire, générer les 16 extraits audiovisuels définitifs et vérifier qu'ils sont comparables.  
+Étape 4 — Expérience et mémoire: Faire les tests avec les participants, analyser les réponses et rédiger les limites méthodologiques.
+
+Les verifications à faire dans la phase finale:
+
+##### Corrections à effectuer avant l'expérience
+
+| Point | Correction à faire | Moment |
+|---|---|---|
+| Ordre des stations | Vérifier l'ordre géographique Q01, Q04, Q03, Q02 et adapter les positions stéréo. | Avant les sons définitifs |
+| Échelles des cartes | Harmoniser les échelles des barres et des cercles dans les notebooks 06 et 07. | Avant les vidéos définitives |
+| Gain de la pluie | Éviter de normaliser chaque extrait par son maximum afin de conserver les différences d'intensité entre les événements. | Avant les tests |
+| Choix des sons | Comparer les timbres et choisir les sons définitifs pour la pluie et l'oxygène. | Après le notebook 10 |
+| Nombre d'extraits | Conserver 16 extraits : 8 avec baisse d'oxygène et 8 sans. | Déjà validé |
+| Limite méthodologique | Si la pluie et l'oxygène sont sonifiés ensemble, il n'est pas possible d'attribuer séparément l'effet de chaque variable. | Dans le mémoire |

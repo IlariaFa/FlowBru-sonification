@@ -90,13 +90,27 @@ Ces 3 questions supplementaires portent sur 3 dimensions differentes mais intere
 
 Les verifications à faire dans la phase finale:
 
-##### Corrections à effectuer avant l'expérience
+#### Checklist — Finalisation du mémoire
 
-| Point | Correction à faire | Moment |
-|---|---|---|
-| Ordre des stations | Vérifier l'ordre géographique Q01, Q04, Q03, Q02 et adapter les positions stéréo. | Avant les sons définitifs |
-| Échelles des cartes | Harmoniser les échelles des barres et des cercles dans les notebooks 06 et 07. | Avant les vidéos définitives |
-| Gain de la pluie | Éviter de normaliser chaque extrait par son maximum afin de conserver les différences d'intensité entre les événements. | Avant les tests |
-| Choix des sons | Comparer les timbres et choisir les sons définitifs pour la pluie et l'oxygène. | Après le notebook 10 |
-| Nombre d'extraits | Conserver 16 extraits : 8 avec baisse d'oxygène et 8 sans. | Déjà validé |
-| Limite méthodologique | Si la pluie et l'oxygène sont sonifiés ensemble, il n'est pas possible d'attribuer séparément l'effet de chaque variable. | Dans le mémoire |
+##### Préparation
+
+- [ ] **Corrections techniques** : vérifier l'ordre géographique (Q01, Q04, Q03, Q02), la spatialisation stéréo, le gain de la pluie (sans normalisation individuelle) et les échelles des cartes (notebooks 06–07).
+- [ ] **Sons définitifs** : comparer les timbres pluie/oxygène après le notebook 10 et fixer les paramètres.
+- [ ] **Visualisation / Figma** : finaliser l'interface et produire les supports audiovisuels synchronisés.
+- [ ] **16 stimuli** : générer 8 extraits avec baisse d'oxygène et 8 sans ; vérifier durée, synchronisation, lisibilité et volume.
+
+### Expérience
+
+- [ ] **Questionnaire et protocole** : définir les questions, les conditions avec/sans son, l'ordre de présentation et les critères de réussite.
+- [ ] **Test pilote** : tester avec 2–3 personnes (compréhension, difficulté, son, durée).
+- [ ] **Expérience** : faire passer les tests et collecter les réponses.
+
+### Analyse et rédaction
+
+- [ ] **Résultats** : comparer avec/sans son (précision, erreurs, détection, localisation) à partir des réponses attendues.
+- [ ] **Mémoire** : rédiger méthodologie, résultats, discussion, limites et conclusion.
+
+**Points de vigilance**
+- Figma ne remplace pas les supports finaux synchronisés.
+- Prévoir les mesures d'analyse dès la conception du questionnaire.
+- Si pluie et oxygène sont sonifiés ensemble, leurs effets individuels ne peuvent pas être isolés.

@@ -114,3 +114,24 @@ Les verifications à faire dans la phase finale:
 - Figma ne remplace pas les supports finaux synchronisés.
 - Prévoir les mesures d'analyse dès la conception du questionnaire.
 - Si pluie et oxygène sont sonifiés ensemble, leurs effets individuels ne peuvent pas être isolés.
+
+__________
+
+24.11.26
+
+Choix
+
+## 2. Application directe à ton mémoire
+
+Tu dois partir de tes questions de recherche pour déterminer tes choix visuels.
+
+| Ce que le participant doit percevoir | Encodage visuel possible |
+| --- | --- |
+| Une diminution de l'oxygène | Hauteur des barres |
+| La station touchée par une baisse | Position géographique |
+| L'intensité de la pluie | Surface des cercles |
+| Une pluie localisée ou généralisée | Répartition spatiale des cercles |
+| La succession entre pluie et baisse d'oxygène | Animation synchronisée et indication temporelle |
+| Une concentration critique d'oxygène | Repère visuel du seuil de 3 mg/L, si pertinent pour la tâche |
+
+Á faire: recherches/visualisation et choix/ sonification et choix/ reste dans le notebook
